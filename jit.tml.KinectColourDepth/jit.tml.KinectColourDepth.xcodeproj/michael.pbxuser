@@ -1,0 +1,145 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeArchitecturePreference = i386;
+		activeBuildConfigurationName = Release;
+		activeTarget = 8D01CCC60486CAD60068D4B7 /* jit.tml.KinectColourDepth */;
+		addToTargets = (
+			8D01CCC60486CAD60068D4B7 /* jit.tml.KinectColourDepth */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 4C34214B12F3387B008123E4 /* Code sense */;
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 330568354;
+			PBXWorkspaceStateSaveDate = 330568354;
+		};
+		perUserProjectItems = {
+			4C3DB3CF13B4084800F30A48 /* PBXTextBookmark */ = 4C3DB3CF13B4084800F30A48 /* PBXTextBookmark */;
+			4C3DB3D013B4084800F30A48 /* PBXTextBookmark */ = 4C3DB3D013B4084800F30A48 /* PBXTextBookmark */;
+			4C3DB42F13B41B5300F30A48 /* PBXTextBookmark */ = 4C3DB42F13B41B5300F30A48 /* PBXTextBookmark */;
+			4C3DB43013B41B5300F30A48 /* PBXTextBookmark */ = 4C3DB43013B41B5300F30A48 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4C34214A12F3387B008123E4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4C1C6A9813AFEE1E005F6025 /* max.jit.tml.KinectColourDepth.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {612, 1573}}";
+			sepNavSelRange = "{1288, 0}";
+			sepNavVisRange = "{913, 1580}";
+			sepNavWindowFrame = "{{1691, 12}, {671, 1028}}";
+		};
+	};
+	4C1C6A9913AFEE1E005F6025 /* tml.jit.KinectColourDepth.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {612, 4225}}";
+			sepNavSelRange = "{2712, 0}";
+			sepNavVisRange = "{1253, 2496}";
+			sepNavWindowFrame = "{{2370, 14}, {671, 1028}}";
+		};
+	};
+	4C2CE7E41337A40900A60988 /* x_simd.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {652, 4641}}";
+			sepNavSelRange = "{472, 8}";
+			sepNavVisRange = "{0, 1575}";
+			sepNavWindowFrame = "{{713, 0}, {711, 1028}}";
+		};
+	};
+	4C34214A12F3387B008123E4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4C34214B12F3387B008123E4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4C34222312F367CF008123E4 /* tmlMatrix.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {598, 923}}";
+			sepNavSelRange = "{394, 0}";
+			sepNavVisRange = "{0, 1030}";
+			sepNavWindowFrame = "{{15, 0}, {657, 980}}";
+		};
+	};
+	4C34222412F367CF008123E4 /* tmlMatrix.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {598, 988}}";
+			sepNavSelRange = "{198, 0}";
+			sepNavVisRange = "{71, 1468}";
+			sepNavWindowFrame = "{{-766, 70}, {657, 980}}";
+		};
+	};
+	4C3DB3CF13B4084800F30A48 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C1C6A9813AFEE1E005F6025 /* max.jit.tml.KinectColourDepth.cpp */;
+		name = "max.jit.tml.KinectColourDepth.cpp: 64";
+		rLen = 0;
+		rLoc = 1288;
+		rType = 0;
+		vrLen = 1472;
+		vrLoc = 0;
+	};
+	4C3DB3D013B4084800F30A48 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C1C6A9913AFEE1E005F6025 /* tml.jit.KinectColourDepth.mm */;
+		name = "tml.jit.KinectColourDepth.mm: 100";
+		rLen = 0;
+		rLoc = 2712;
+		rType = 0;
+		vrLen = 1728;
+		vrLoc = 0;
+	};
+	4C3DB42F13B41B5300F30A48 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C1C6A9913AFEE1E005F6025 /* tml.jit.KinectColourDepth.mm */;
+		name = "tml.jit.KinectColourDepth.mm: 100";
+		rLen = 0;
+		rLoc = 2712;
+		rType = 0;
+		vrLen = 2496;
+		vrLoc = 1253;
+	};
+	4C3DB43013B41B5300F30A48 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C1C6A9813AFEE1E005F6025 /* max.jit.tml.KinectColourDepth.cpp */;
+		name = "max.jit.tml.KinectColourDepth.cpp: 64";
+		rLen = 0;
+		rLoc = 1288;
+		rType = 0;
+		vrLen = 1567;
+		vrLoc = 926;
+	};
+	4C6C457413282FB500952783 /* SmartMM.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {652, 1625}}";
+			sepNavSelRange = "{75, 0}";
+			sepNavVisRange = "{1909, 1571}";
+			sepNavWindowFrame = "{{934, 0}, {711, 1028}}";
+		};
+	};
+	4C6C45901329507C00952783 /* Smart.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {652, 3575}}";
+			sepNavSelRange = "{85, 0}";
+			sepNavVisRange = "{4383, 1624}";
+			sepNavWindowFrame = "{{584, 0}, {711, 1028}}";
+		};
+	};
+	8D01CCC60486CAD60068D4B7 /* jit.tml.KinectColourDepth */ = {
+		activeExec = 0;
+	};
+	8D01CCD10486CAD60068D4B7 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{1965, -23}, {657, 980}}";
+		};
+	};
+}

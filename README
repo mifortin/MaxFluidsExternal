@@ -1,0 +1,24 @@
+This is a very restricted set of the externals that I wrote while at the TML 5+ years ago.
+
+I do not expect anything to build out of the box.  These are my favourite externals.  :)
+
+DepthBG - A helper for people doing work with Kinect.
+
+jit.tml.fluid - First attempt at putting a fluid simulation in Max.
+
+jit.tml.fluid2 - Second attempt at putting a fluid simulation in Max.  Still used, even 5 years after.
+
+jit.tml.KinectColourDepth - Part of the Kinect utilities (match colour to depth)
+
+jit.tml.KinectPointCloud - Creates a point cloud from both cameras.
+
+jit.tml.particleFlow - A bunch of particles floating in a velocity field
+
+jit.tml.rockeby - Adaptive camera-based background subtraction (relearns background over time).
+
+jit.tml.vp8.decode - Decodes a matrix using Google's VP8 codec
+
+jit.tml.vp8.encode - Encodes a matrix using Google's VP8 codec
+
+jitter_helper - Stuff that could be useful.
+
